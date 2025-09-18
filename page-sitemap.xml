@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on September 13, 2025 at 1:51 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/]]></loc>
+		<lastmod><![CDATA[2025-09-02T11:31:15+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/privacy-policy/]]></loc>
+		<lastmod><![CDATA[2025-09-02T11:31:28+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/terms-and-conditions/]]></loc>
+		<lastmod><![CDATA[2025-09-02T11:31:21+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/contact-us/]]></loc>
+		<lastmod><![CDATA[2025-09-02T11:07:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/privacy-policy-2/]]></loc>
+		<lastmod><![CDATA[2025-09-02T11:07:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/home/]]></loc>
+		<lastmod><![CDATA[2025-09-02T10:53:36+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/sample-page/]]></loc>
+		<lastmod><![CDATA[2025-09-02T10:39:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+</urlset>
